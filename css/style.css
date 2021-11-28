@@ -1,0 +1,39 @@
+@media all and (max-width: 576px ){
+
+    .elementos-responsive{
+       
+        text-align: center;
+    }
+
+}
+.TituloFont{
+    font-family: 'Black Han Sans', sans-serif;
+}
+.padCelbox{
+    padding-left: 40px;
+}
+.card-height{
+    min-height: 100%;
+}
+.padding-footer{
+    padding: 50px 0 50px 0;
+}
+.ul-none{
+    list-style: none;
+    padding: 0%;
+}
+ul li a{
+    
+    text-decoration: none;
+
+}
+.ul-none-pad{
+    padding-left: 0px;
+}
+.price-badge{
+    font-size: 1.2em;
+}
+.image-hover:hover{
+    filter: saturate(180%);
+    
+}
